@@ -3,14 +3,14 @@ layout: default
 ---
 
 # EX09: Data Analysis for Continuous Improvement
-
+**Landon Smith**
 ## Idea
 I analyzed whether optional pre-lecture videos would improve student learning in COMP110. I chose this idea because the survey includes direct data about student opinions on pre-lecture videos, making it possible to analyze using real data.
 
 ## Analysis Summary
 I examined student responses about pre-lecture videos and compared them to measures such as understanding and difficulty.
 
-The data shows that many students rated pre-lecture videos highly, suggesting strong interest in this resource. Additionally, students across different levels of understanding and difficulty also tended to support pre-lecture videos. Support remains consistently high across these groups, indicating that pre-lecture videos could be helpful for a wide range of students, including those who may be struggling.
+TThe combined survey data shows that many students rated pre-lecture videos highly, suggesting strong interest in this resource. Additionally, students across different levels of understanding and difficulty also tended to support pre-lecture videos. Support remains consistently high across these groups, indicating that pre-lecture videos could be helpful for a wide range of students, including those who may be struggling.
 
 ## Visualizations
 
